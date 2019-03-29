@@ -1,0 +1,41 @@
+[
+  {
+    "utxos": [
+      {
+        "txid": "5da23019e80a9a5a83ead96d426070483fed854c92e71637b42daec766c066fe",
+        "vout": 0,
+        "amount": 0.00077346,
+        "satoshis": 77346,
+        "height": 573722,
+        "confirmations": 1
+      },
+      {
+        "txid": "962aa9115c5170becb6051c79692217eea1877906ced3a69552e76ef95cb7f0b",
+        "vout": 2,
+        "amount": 0.00005461,
+        "satoshis": 5461,
+        "height": 573722,
+        "confirmations": 1
+      },
+      {
+        "txid": "3b63d0f1d67ea52f7c57cd130c3118a3a8a30286bf3b7a6bf4b8ad8b885fca69",
+        "vout": 1,
+        "amount": 0.00000546,
+        "satoshis": 546,
+        "height": 573622,
+        "confirmations": 101
+      },
+      {
+        "txid": "e28a36df4d56fd04a715c969e874e8bafefa1ac29772d75ce7de762f8a8cf06f",
+        "vout": 2,
+        "amount": 0.00984573,
+        "satoshis": 984573,
+        "height": 573621,
+        "confirmations": 102
+      }
+    ],
+    "legacyAddress": "18ZzbSgQanNFssJrrLCKNfkfSwt38KL1t5",
+    "cashAddress": "bitcoincash:qpfsv39800lr75qzhwqjzqtqlqp9r4pk4spq58nxdk",
+    "scriptPubKey": "76a914530644a77bfe3f5002bb81210160f80251d436ac88ac"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "debugComment": "ANG Genesis",
+    "txid": "775a3902829c48c56acb62d5493946c025aa80f43959fdfd6aa3c5fced07366e",
+    "version": 1,
+    "locktime": 573835,
+    "vin": [
+      {
+        "txid": "abc3fbf2e3c8459cb134a6a44d57c5c99322addba67cd2f099c9571773203309",
+        "vout": 3,
+        "sequence": 4294967294,
+        "n": 0,
+        "scriptSig": {
+          "hex": "483045022100b7a3577aeaa3dc946175c91f4fd588730c98f415b25c9843f542fff99ab5f2f2022074ccce7703e72cc383139e9341a8625bef7eeeb53975d0a30554b30ff8784a024121030da7d293daba46dfe6af7a41bcc1fdaf7fc1e0b0da60d6753dd631de8bf8c183",
+          "asm": "3045022100b7a3577aeaa3dc946175c91f4fd588730c98f415b25c9843f542fff99ab5f2f2022074ccce7703e72cc383139e9341a8625bef7eeeb53975d0a30554b30ff8784a02[ALL|FORKID] 030da7d293daba46dfe6af7a41bcc1fdaf7fc1e0b0da60d6753dd631de8bf8c183"
+        },
+        "value": 38672,
+        "legacyAddress": "185MEfnZKCbVghEXdPR1sdWSKJ55vEZuni",
+        "cashAddress": "bitcoincash:qpxekmatley3u9ggshfgh8p4stpc6rzwxuluahnush"
+      }
+    ],
+    "vout": [
+      {
+        "value": "0.00000000",
+        "n": 0,
+        "scriptPubKey": {
+          "hex": "6a04534c500001010747454e4553495303414e4705416e67656c4c004c0001024c00080000000005f5e100",
+          "asm": "OP_RETURN 5262419 1 47454e45534953 4673089 416e67656c 0 0 2 0 0000000005f5e100"
+        },
+        "spentTxId": null,
+        "spentIndex": null,
+        "spentHeight": null
+      },
+      {
+        "value": "0.00000546",
+        "n": 1,
+        "scriptPubKey": {
+          "hex": "76a914ab80783acd048d99703eedcbcc895b6bf987c16488ac",
+          "asm": "OP_DUP OP_HASH160 ab80783acd048d99703eedcbcc895b6bf987c164 OP_EQUALVERIFY OP_CHECKSIG",
+          "addresses": [
+            "1GdpT2msFCQVsMsKNm4MAkB4URR1xV5fYX"
+          ],
+          "type": "pubkeyhash"
+        },
+        "spentTxId": "449e468fdfc9e8991cadadc83aa2b1a6399528c5c99818def2414682304f25bd",
+        "spentIndex": 0,
+        "spentHeight": 573837
+      },
+      {
+        "value": "0.00037848",
+        "n": 2,
+        "scriptPubKey": {
+          "hex": "76a91469fa8f94e2245695f3f593901b9093b69e353bd488ac",
+          "asm": "OP_DUP OP_HASH160 69fa8f94e2245695f3f593901b9093b69e353bd4 OP_EQUALVERIFY OP_CHECKSIG",
+          "addresses": [
+            "1AfN7R9ZBSqfstKvaBroxMtBpAbtPh2VjK"
+          ],
+          "type": "pubkeyhash"
+        },
+        "spentTxId": "449e468fdfc9e8991cadadc83aa2b1a6399528c5c99818def2414682304f25bd",
+        "spentIndex": 1,
+        "spentHeight": 573837
+      }
+    ],
+    "blockhash": "00000000000000000210dbca65947d6330f8ae05cebd3454738eeabc31973521",
+    "blockheight": 573837,
+    "confirmations": 1448,
+    "time": 1552620880,
+    "blocktime": 1552620880,
+    "valueOut": 0.00038394,
+    "size": 278,
+    "valueIn": 0.00038672,
+    "fees": 0.00000278,
+    "tokenInfo": {
+      "versionType": 1,
+      "transactionType": "GENESIS",
+      "symbol": "ANG",
+      "name": "Angel",
+      "documentUri": "",
+      "documentSha256": null,
+      "decimals": 2,
+      "batonVout": null,
+      "genesisOrMintQuantity": "100000000"
+    },
+    "tokenIsValid": true
+  }
+]

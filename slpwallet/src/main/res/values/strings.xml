@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SLPWallet</string>
+
+    <string name="exception_device_not_secure">Cannot use Secure Preferences because the device does not have a screen lock.</string>
+</resources>

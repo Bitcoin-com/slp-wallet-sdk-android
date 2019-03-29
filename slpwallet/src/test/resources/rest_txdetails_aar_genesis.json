@@ -1,0 +1,87 @@
+[
+  {
+    "debugComment": "AAR Genesis",
+    "txid": "b75d9a2f2251deea547f80358158817e791671b865a3f1a80da840e4a9893772",
+    "version": 1,
+    "locktime": 573802,
+    "vin": [
+      {
+        "txid": "05b70a830f9b8e3842c21d2ee2ad022047b646a06deae7a6d88da8da1eaa0872",
+        "vout": 3,
+        "sequence": 4294967294,
+        "n": 0,
+        "scriptSig": {
+          "hex": "47304402204ca4d6a5f9add6f3b4b2e49f56f44067b3abcf73da999dde4a1b2ca3553d6156022032616d45702a3eac59c50388227d3157194f88a1f9ff1daf70a6d3beb484f7eb412102b431abf5d47cd1bc9768c3ce9be5b91504fd0a1b39ea0535fe1fca03908fa605",
+          "asm": "304402204ca4d6a5f9add6f3b4b2e49f56f44067b3abcf73da999dde4a1b2ca3553d6156022032616d45702a3eac59c50388227d3157194f88a1f9ff1daf70a6d3beb484f7eb[ALL|FORKID] 02b431abf5d47cd1bc9768c3ce9be5b91504fd0a1b39ea0535fe1fca03908fa605"
+        },
+        "value": 43568,
+        "legacyAddress": "1MabofMTV9yJ6CJTYEst5WdoiLAaqm2Zqb",
+        "cashAddress": "bitcoincash:qrsm6jakv24ghpqyqta0frm7rfkehz4pasayejgjek"
+      }
+    ],
+    "vout": [
+      {
+        "value": "0.00000000",
+        "n": 0,
+        "scriptPubKey": {
+          "hex": "6a04534c500001010747454e455349530341415208416172647661726b4c004c0001024c00080000000005f5e100",
+          "asm": "OP_RETURN 5262419 1 47454e45534953 5390657 416172647661726b 0 0 2 0 0000000005f5e100"
+        },
+        "spentTxId": null,
+        "spentIndex": null,
+        "spentHeight": null
+      },
+      {
+        "value": "0.00000546",
+        "n": 1,
+        "scriptPubKey": {
+          "hex": "76a914a85a11b9c81c5761e262d7ab76cc0656fd2f0f4588ac",
+          "asm": "OP_DUP OP_HASH160 a85a11b9c81c5761e262d7ab76cc0656fd2f0f45 OP_EQUALVERIFY OP_CHECKSIG",
+          "addresses": [
+            "1GMARMBykmPjXm83KmKJckqY4FfKmkx429"
+          ],
+          "type": "pubkeyhash"
+        },
+        "spentTxId": "870fd05ee0f0fcea249a1c7cca62ddfb9824b8972c04b04ec6e79a52240f2db9",
+        "spentIndex": 0,
+        "spentHeight": 573803
+      },
+      {
+        "value": "0.00042741",
+        "n": 2,
+        "scriptPubKey": {
+          "hex": "76a914854bab72529070b256e1bd519d2f63090d94947988ac",
+          "asm": "OP_DUP OP_HASH160 854bab72529070b256e1bd519d2f63090d949479 OP_EQUALVERIFY OP_CHECKSIG",
+          "addresses": [
+            "1D9oX8xqpBM9YGxG5tgjstnJXiAj4g7gKC"
+          ],
+          "type": "pubkeyhash"
+        },
+        "spentTxId": "870fd05ee0f0fcea249a1c7cca62ddfb9824b8972c04b04ec6e79a52240f2db9",
+        "spentIndex": 1,
+        "spentHeight": 573803
+      }
+    ],
+    "blockhash": "000000000000000001e5209c39b3ab1ec7863efd72f95fb78fa7f468ffdf310e",
+    "blockheight": 573803,
+    "confirmations": 1482,
+    "time": 1552610189,
+    "blocktime": 1552610189,
+    "valueOut": 0.00043287,
+    "size": 280,
+    "valueIn": 0.00043568,
+    "fees": 0.00000281,
+    "tokenInfo": {
+      "versionType": 1,
+      "transactionType": "GENESIS",
+      "symbol": "AAR",
+      "name": "Aardvark",
+      "documentUri": "",
+      "documentSha256": null,
+      "decimals": 2,
+      "batonVout": null,
+      "genesisOrMintQuantity": "100000000"
+    },
+    "tokenIsValid": true
+  }
+]
