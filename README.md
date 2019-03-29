@@ -1,8 +1,11 @@
+![Logo](github_logo.png)
+
 # SLPWallet Android SDK
 
 [![Build Status](https://travis-ci.com/Bitcoin-com/slp-wallet-sdk-android.svg?branch=master)](https://travis-ci.com/Bitcoin-com/slp-wallet-sdk-android)
-![Platform](https://img.shields.io/badge/platform-android-lightgrey.svg) 
-![License](https://img.shields.io/badge/License-MIT-black.svg) 
+![Platform](https://img.shields.io/badge/platform-android-black.svg) 
+![Compatibility](https://img.shields.io/badge/Android-+5.0-orange.svg) 
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg) 
 
 ## Supported Android Versions
 5.0+
