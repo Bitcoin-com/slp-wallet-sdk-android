@@ -1,5 +1,6 @@
 # SLPWallet Android SDK
 
+[![Build Status](https://travis-ci.com/Bitcoin-com/slp-wallet-sdk-android.svg?branch=master)](https://travis-ci.com/Bitcoin-com/slp-wallet-sdk-android)
 ![Platform](https://img.shields.io/badge/platform-android-lightgrey.svg) 
 ![License](https://img.shields.io/badge/License-MIT-black.svg) 
 
