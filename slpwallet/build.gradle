@@ -74,6 +74,7 @@ dependencies {
         exclude group: 'com.google.code.findbugs', module: 'jsr305'
     }
     implementation 'com.jakewharton.timber:timber:4.7.1'
+    implementation 'com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava'
 
     // Test
     testImplementation 'junit:junit:4.12'
